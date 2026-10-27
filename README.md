@@ -1,1 +1,1 @@
-# .hyprdots
+# My hyprland dotfiles
